@@ -1,0 +1,27 @@
+.mt-position {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    padding: 50px 0 20px 0;
+}
+.mt-container {
+    width: 1150px;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mt-redes-sociais {
+    display: flex;
+    gap: 10px;
+}
+.mt-redes-sociais a {
+    color: #ffffffff;
+    font-size: 1.5rem;
+}
+.mt-control a {
+    color: rgba(255, 255, 255, 0.705);
+    font-size: 1.3rem;
+}

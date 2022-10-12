@@ -1,0 +1,26 @@
+.rodape-wrapper {
+    width: 100%;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #1e3c72;
+    background: -webkit-linear-gradient(to right, #2a5298, #1e3c72);
+    background: linear-gradient(to right, #2a5298, #1e3c72);
+}
+.rodape-wrapper a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+    color: #ffffffff;
+}
+.rodape-wrapper a:hover {
+    color: #ffffffc9;
+    transition: 0.3s;
+}
+.rodape-wrapper p {
+    cursor: default;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+    color: #ffffffd5;
+}

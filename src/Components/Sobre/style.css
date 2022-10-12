@@ -1,0 +1,20 @@
+.sobre-wrapper {
+    width: 100%;
+    padding: 90px 15% 50px 15%;
+    background: #272727;
+}
+.sobre-info-wrapper {
+    width: 100%;
+    padding: 50px 40px;
+    background-color: #ffffffb2;
+    border-radius: 5px;
+}
+.sobre-info-wrapper h3 {
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+.sobre-info-wrapper p {
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, 0.589);
+    margin-bottom: 10px;
+}
